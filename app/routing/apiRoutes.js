@@ -3,7 +3,7 @@ var friendsArray = require("../data/friends.js");
 module.exports = function (app) {
     // API GET Requests
     app.get("/api/friends", function (req, res) {
-        res.json(friendsArray);
+        res.json(friendsArray); 
     });
 
     // API POST Requests
