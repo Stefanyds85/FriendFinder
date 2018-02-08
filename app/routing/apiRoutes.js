@@ -8,13 +8,31 @@ module.exports = function (app) {
 
     // API POST Requests
     app.post("/api/friends", function (req, res) {
-        if (friendsArray.length == true) {
-            friendsArray.push(req.body);
-            res.json(true);
-        } else {
-            friendsArray.push(req.body);
-            res.json(false);
+       
+        var friendMatch = [
+            {
+            name:"",
+            photo:"",
+            friendDifferences: ""
         }
+    ];
+         conaole.log(req.body);
+
+        
+        var totalDifference = 0;
+        var clientInfo = req.body;
+        var clientScore = clientInfo.scores;
+
+        for(var i = 0; i<friendsArray.length; i++){
+            console.log(friendsArray[i]);
+            totalDifference=0;
+        
+
+        if (friendsArray.length == true) {
+            friendsArray.push(clientInfo);
+            res.json(true);
+        }
+    } 
     });
 
     app.post("/api/clear", function () {

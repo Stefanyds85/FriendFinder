@@ -1,8 +1,8 @@
 var friendsArray = [
   {
-    "name":"Ahmed",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
+    name:"Ahmed",
+    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    scores:[
         5,
         1,
         4,
@@ -17,9 +17,9 @@ var friendsArray = [
   },
 
   {
-    "name":"Shelly",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
+    name:"Shelly",
+    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    scores:[
         2,
         1,
         4,
@@ -34,9 +34,9 @@ var friendsArray = [
   },  
   
   {
-    "name":"Dave",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
+    name:"Dave",
+    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    scores:[
         5,
         5,
         1,
@@ -51,9 +51,9 @@ var friendsArray = [
   }, 
 
   {
-    "name":"Kevin",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
+    name:"Kevin",
+    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    scores:[
         5,
         1,
         4,
@@ -68,9 +68,9 @@ var friendsArray = [
   }, 
 
   {
-    "name":"Tina",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
+    name:"Tina",
+    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    scores:[
         1,
         1,
         2,
@@ -85,9 +85,9 @@ var friendsArray = [
   }, 
 
   {
-    "name":"Tonya",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
+    name:"Tonya",
+    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    scores:[
         5,
         1,
         4,
@@ -102,9 +102,9 @@ var friendsArray = [
   }, 
 
   {
-    "name":"Gonzalo",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
+    name:"Gonzalo",
+    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    scores:[
         5,
         1,
         2,
@@ -119,9 +119,9 @@ var friendsArray = [
   }, 
 
   {
-    "name":"Maria",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
+    name:"Maria",
+    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    scores:[
         5,
         3,
         4,
@@ -136,9 +136,9 @@ var friendsArray = [
   }, 
 
   {
-    "name":"Tommy",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
+    name:"Tommy",
+    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    scores:[
         3,
         1,
         4,
@@ -153,9 +153,9 @@ var friendsArray = [
   }, 
 
   {
-    "name":"John",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
+    name:"John",
+    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    scores:[
         2,
         1,
         4,
